@@ -1,0 +1,208 @@
+[main]
+host = https://app.transifex.com
+
+[o:calibre:p:calibre-plugins:r:barnes-noble]
+file_filter            = barnes_noble/translations/<lang>.po
+source_file            = barnes_noble/translations/barnes-noble.pot
+type                   = PO
+minimum_perc           = 0
+replace_edited_strings = false
+keep_translations      = false
+
+[o:calibre:p:calibre-plugins:r:clipboard-search]
+file_filter            = clipboard_search/translations/<lang>.po
+source_file            = clipboard_search/translations/clipboard-search.pot
+type                   = PO
+minimum_perc           = 0
+replace_edited_strings = false
+keep_translations      = false
+
+[o:calibre:p:calibre-plugins:r:count-pages]
+file_filter            = count_pages/translations/<lang>.po
+source_file            = count_pages/translations/count-pages.pot
+type                   = PO
+minimum_perc           = 0
+resource_name          = Count Pages
+replace_edited_strings = false
+keep_translations      = false
+
+[o:calibre:p:calibre-plugins:r:extract-isbn]
+file_filter            = extract_isbn/translations/<lang>.po
+source_file            = extract_isbn/translations/extract-isbn.pot
+type                   = PO
+minimum_perc           = 0
+replace_edited_strings = false
+keep_translations      = false
+
+[o:calibre:p:calibre-plugins:r:fantastic-fiction]
+file_filter            = fantastic_fiction/translations/<lang>.po
+source_file            = fantastic_fiction/translations/fantastic-fiction.pot
+type                   = PO
+minimum_perc           = 0
+replace_edited_strings = false
+keep_translations      = false
+
+[o:calibre:p:calibre-plugins:r:fantastic-fiction-adults]
+file_filter            = fantastic_fiction_adults/translations/<lang>.po
+source_file            = fantastic_fiction_adults/translations/fantastic-fiction-adults.pot
+type                   = PO
+minimum_perc           = 0
+replace_edited_strings = false
+keep_translations      = false
+
+[o:calibre:p:calibre-plugins:r:favourites-menu]
+file_filter            = favourites_menu/translations/<lang>.po
+source_file            = favourites_menu/translations/favourites-menu.pot
+type                   = PO
+minimum_perc           = 0
+replace_edited_strings = false
+keep_translations      = false
+
+[o:calibre:p:calibre-plugins:r:fictiondb]
+file_filter            = fictiondb/translations/<lang>.po
+source_file            = fictiondb/translations/fictiondb.pot
+type                   = PO
+minimum_perc           = 0
+replace_edited_strings = false
+keep_translations      = false
+
+[o:calibre:p:calibre-plugins:r:find-duplicates]
+file_filter            = find_duplicates/translations/<lang>.po
+source_file            = find_duplicates/translations/find-duplicates.pot
+type                   = PO
+minimum_perc           = 0
+replace_edited_strings = false
+keep_translations      = false
+
+[o:calibre:p:calibre-plugins:r:generate-cover]
+file_filter            = generate_cover/translations/<lang>.po
+source_file            = generate_cover/translations/generate-cover.pot
+type                   = PO
+minimum_perc           = 0
+resource_name          = Generate Cover
+replace_edited_strings = false
+keep_translations      = false
+
+[o:calibre:p:calibre-plugins:r:goodreads]
+file_filter            = goodreads/translations/<lang>.po
+source_file            = goodreads/translations/goodreads.pot
+type                   = PO
+minimum_perc           = 0
+replace_edited_strings = false
+keep_translations      = false
+
+[o:calibre:p:calibre-plugins:r:goodreads-sync]
+file_filter            = goodreads_sync/translations/<lang>.po
+source_file            = goodreads_sync/translations/goodreads-sync.pot
+type                   = PO
+minimum_perc           = 0
+resource_name          = Goodreads Sync
+replace_edited_strings = false
+keep_translations      = false
+
+[o:calibre:p:calibre-plugins:r:import-list]
+file_filter            = import_list/translations/<lang>.po
+source_file            = import_list/translations/import-list.pot
+type                   = PO
+minimum_perc           = 0
+resource_name          = Import List
+replace_edited_strings = false
+keep_translations      = false
+
+[o:calibre:p:calibre-plugins:r:manage-series]
+file_filter            = manage_series/translations/<lang>.po
+source_file            = manage_series/translations/manage-series.pot
+type                   = PO
+minimum_perc           = 0
+replace_edited_strings = false
+keep_translations      = false
+
+[o:calibre:p:calibre-plugins:r:modify-epub]
+file_filter            = modify_epub/translations/<lang>.po
+source_file            = modify_epub/translations/modify-epub.pot
+type                   = PO
+minimum_perc           = 0
+replace_edited_strings = false
+keep_translations      = false
+
+[o:calibre:p:calibre-plugins:r:open-with]
+file_filter            = open_with/translations/<lang>.po
+source_file            = open_with/translations/open-with.pot
+type                   = PO
+minimum_perc           = 0
+replace_edited_strings = false
+keep_translations      = false
+
+[o:calibre:p:calibre-plugins:r:quality-check]
+file_filter            = quality_check/translations/<lang>.po
+source_file            = quality_check/translations/quality-check.pot
+type                   = PO
+minimum_perc           = 0
+resource_name          = Quality Check
+replace_edited_strings = false
+keep_translations      = false
+
+[o:calibre:p:calibre-plugins:r:quick-preferences]
+file_filter            = quick_preferences/translations/<lang>.po
+source_file            = quick_preferences/translations/quick-preferences.pot
+type                   = PO
+minimum_perc           = 0
+replace_edited_strings = false
+keep_translations      = false
+
+[o:calibre:p:calibre-plugins:r:ratings]
+file_filter            = ratings/translations/<lang>.po
+source_file            = ratings/translations/ratings.pot
+type                   = PO
+minimum_perc           = 0
+replace_edited_strings = false
+keep_translations      = false
+
+[o:calibre:p:calibre-plugins:r:reading-list]
+file_filter            = reading_list/translations/<lang>.po
+source_file            = reading_list/translations/reading-list.pot
+type                   = PO
+minimum_perc           = 0
+replace_edited_strings = false
+keep_translations      = false
+
+[o:calibre:p:calibre-plugins:r:resize-cover]
+file_filter            = resize_cover/translations/<lang>.po
+source_file            = resize_cover/translations/resize-cover.pot
+type                   = PO
+minimum_perc           = 0
+replace_edited_strings = false
+keep_translations      = false
+
+[o:calibre:p:calibre-plugins:r:search-the-internet]
+file_filter            = search_the_internet/translations/<lang>.po
+source_file            = search_the_internet/translations/search-the-internet.pot
+type                   = PO
+minimum_perc           = 0
+replace_edited_strings = false
+keep_translations      = false
+
+[o:calibre:p:calibre-plugins:r:user-category]
+file_filter            = user_category/translations/<lang>.po
+source_file            = user_category/translations/user-category.pot
+type                   = PO
+minimum_perc           = 0
+replace_edited_strings = false
+keep_translations      = false
+
+[o:calibre:p:calibre-plugins:r:view-manager]
+file_filter            = view_manager/translations/<lang>.po
+source_file            = view_manager/translations/view-manager.pot
+type                   = PO
+minimum_perc           = 0
+replace_edited_strings = false
+keep_translations      = false
+
+[o:calibre:p:calibre-plugins:r:walk-search-history]
+file_filter            = walk_search_history/translations/<lang>.po
+source_file            = walk_search_history/translations/walk-search-history.pot
+type                   = PO
+minimum_perc           = 0
+replace_edited_strings = false
+keep_translations      = false
+
